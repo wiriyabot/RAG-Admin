@@ -1,4 +1,4 @@
-# RAG-Admin: Knowledge Base Assistant for Courses
+# RAG-Admin: Intelligent Course Assistant
 
 โปรเจกต์นี้เป็นระบบ **Retrieval-Augmented Generation (RAG)** สำหรับ **ผู้ดูแลคอร์สเรียน (Admin)**  
 ช่วยให้สามารถตอบคำถามเกี่ยวกับคอร์สเรียนของคุณได้อย่างแม่นยำ โดยระบบจะค้นหาข้อมูลจาก **ฐานข้อมูลคอร์ส** และใช้ AI สร้างคำตอบที่ตรงกับความต้องการของผู้เรียน
@@ -10,6 +10,14 @@
 * **Vector Search:** ค้นหาคอร์สที่ตรงกับความสนใจหรือคำถามของผู้เรียนได้อย่างรวดเร็ว
 * **Context-Aware Chat:** ระบบจดจำประวัติการสนทนา ช่วยให้ตอบคำถามต่อเนื่องและเหมาะสม
 * **Modular Design:** แยกส่วนการทำงานชัดเจน (Loader, Splitter, Retriever, Chain) ทำให้ปรับแต่งระบบง่าย
+
+---
+
+## Tech Stack
+* Core: Python, LangChain
+* Database: ChromaDB (Vector Store)
+* Model: OpenAI gpt-4.1-mini (สามารถปรับเปลี่ยนได้)
+* Interface: Streamlit
 
 ---
 
@@ -71,3 +79,13 @@ streamlit run app.py
 * วางข้อมูลคอร์สต้นฉบับใน raw_data/ ก่อนรัน build.py
 * สามารถแก้ไขไฟล์ใน rag/ เพื่อปรับ Prompt ของ AI ให้ตอบคำถามคอร์สได้ตรงตามสไตล์ของคุณ
 * รองรับการเพิ่มคอร์สใหม่และอัปเดตฐานข้อมูลโดยไม่กระทบระบบหลัก
+
+---
+
+## ตัวอย่างการใช้งาน
+<img width="914" height="595" alt="image" src="https://github.com/user-attachments/assets/ac65c363-d725-40d9-b6de-73134ff517aa" />
+
+มีระบบจดจำประวัติการสนทนา
+
+<img width="903" height="564" alt="image" src="https://github.com/user-attachments/assets/e30425e4-ff54-4b0f-b1b7-ae0d0fd7451d" />
+
