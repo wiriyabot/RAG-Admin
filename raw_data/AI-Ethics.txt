@@ -1,0 +1,35 @@
+Course Title: AI Ethics & Fairness
+Level: Beginner Level
+Format: Case Study + Analysis
+Best For: AI Engineer, Researcher, ผู้ใช้ AI ในองค์กร
+Price: 4,500 บาท
+Total Hours: 15 ชั่วโมง
+
+Course Description
+คอร์สนี้มุ่งเน้นด้านความยุติธรรม ความโปร่งใส และความปลอดภัยของ AI  
+ผู้เรียนจะศึกษา Bias, Fairness, Privacy และผลกระทบจากระบบ AI ที่เกิดขึ้นจริงในโลก
+
+Skills You Will Gain
+- Fairness Analysis  
+- AI Bias Detection  
+- Data Governance  
+- Privacy in AI  
+- Ethical AI Design  
+
+Course Syllabus
+1. Intro to AI Ethics  
+2. AI Bias  
+3. Fairness Metrics  
+4. Privacy & Governance  
+5. Case Study Problems  
+6. How to Reduce Bias  
+7. Responsible AI Design  
+8. Final Project
+
+Final Project
+วิเคราะห์โมเดลจริงว่ามี Bias หรือไม่  
+พร้อมนำเสนอวิธีลดอคติ
+
+Learning Outcomes
+- เข้าใจปัญหาด้านจริยธรรมของ AI  
+- วิเคราะห์และลด Bias ได้  

@@ -1,0 +1,41 @@
+- Course Title: Artificial Intelligence (AI Fundamentals)
+Level: Beginner → Intermediate
+Format: Hands-on + Project-Based
+Best For: ผู้เริ่มต้นสาย Machine Learning, Data Science, AI Engineer
+Price: 5,900 บาท
+Total Hours: 25 ชั่วโมง
+
+Course Description
+คอร์สนี้ออกแบบมาให้ผู้เรียนเข้าใจพื้นฐานของ AI, Machine Learning และ Deep Learning 
+ตั้งแต่ศูนย์จนสามารถสร้างโมเดลด้วยตนเองได้ ผู้เรียนจะได้เรียนรู้หลักคิดของโมเดลทำนาย, การประมวลผลข้อมูล, 
+การสร้าง Neural Network และ Convolutional Neural Network (CNN) พร้อมปรับ Hyperparameters และประเมินผลโมเดล
+
+Skills You Will Gain
+- เข้าใจงาน Machine Learning ทั้งหมด (Classification, Regression)
+- สร้าง Neural Network ด้วย TensorFlow / Keras
+- เตรียมข้อมูลอย่างถูกต้องด้วย Pandas, Numpy
+- ใช้ Scikit-Learn ทำโมเดลระดับโปรเจกต์
+- ประเมินโมเดลด้วย Metrics เช่น Accuracy, F1-score
+- เข้าใจวงจรการทำงานของ AI ตั้งแต่ Data → Model → Deploy
+
+Course Syllabus
+1. Introduction to AI  
+2. Python for AI (NumPy, Pandas, Matplotlib)  
+3. Supervised Learning  
+4. Unsupervised Learning  
+5. Deep Learning Basics  
+6. CNN Models  
+7. Model Evaluation + Tuning  
+8. Using TensorFlow/Keras  
+9. Final Project
+
+Final Project
+สร้างโมเดล AI เช่น:
+- ระบบจำแนกรูปภาพ
+- ระบบทำนายราคา
+- ระบบแนะนำสินค้า
+
+Learning Outcomes
+- เข้าใจหลักการของ AI  
+- สามารถสร้างโมเดล ML/DL ได้ด้วยตนเอง  
+- ทำโปรเจกต์ AI สำหรับ Portfolio  

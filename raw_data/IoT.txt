@@ -1,0 +1,36 @@
+Course Title: Internet of Things (IoT)
+Level: Beginner → Intermediate
+Format: Hardware + Cloud Project
+Best For: ผู้เริ่มสาย Embedded, Maker, Smart Home
+Price: 5,900 บาท
+Total Hours: 24 ชั่วโมง
+
+Course Description
+สอนการสร้างอุปกรณ์ IoT ตั้งแต่ Microcontroller → Cloud  
+ผู้เรียนจะใช้อุปกรณ์ Arduino หรือ ESP32 พร้อมเชื่อมต่อเซนเซอร์และส่งข้อมูลขึ้น Cloud แบบ Real-time
+
+Skills You Will Gain
+- Arduino / ESP32 Programming  
+- Sensor Integration  
+- IoT Networking Basics  
+- ใช้ MQTT หรือ Firebase ส่งข้อมูล  
+- ทำ Dashboard Real-time  
+
+Course Syllabus
+1. Microcontroller Basics  
+2. Sensors & Actuators  
+3. IoT Protocols  
+4. Cloud Connection  
+5. Data Logging  
+6. Dashboard  
+7. Security Basics  
+8. Final Project
+
+Final Project
+Smart Device เช่น:
+- ระบบแจ้งเตือนอุณหภูมิ  
+- Smart Home Automation  
+
+Learning Outcomes
+- สร้าง IoT อุปกรณ์สมบูรณ์  
+- เชื่อมต่อ Cloud และ Dashboard ได้  

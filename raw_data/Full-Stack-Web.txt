@@ -1,0 +1,41 @@
+- Course Title: Full-Stack Web Development
+Level: Beginner → Intermediate
+Format: Hands-on + Project-Based
+Best For: ผู้ที่ต้องการทำเว็บจริง, เตรียม Portfolio, หรือเริ่มสาย Full-Stack
+Price: 6,900 บาท
+Total Hours: 30 ชั่วโมง
+
+Course Description
+คอร์สนี้สอนการพัฒนาเว็บตั้งแต่ Frontend → Backend แบบครบวงจร  
+ผู้เรียนจะได้สร้างเว็บด้วย HTML/CSS/JS, React.js, Node.js, และเชื่อมต่อฐานข้อมูลจริง  
+พร้อม Deploy ออนไลน์ให้ใช้งานได้จริง
+
+Skills You Will Gain
+- สร้าง UI ด้วย HTML/CSS/JavaScript  
+- สร้างเว็บ Interactive ด้วย React.js  
+- เชื่อมต่อ Backend ด้วย Node.js + Express  
+- ใช้ฐานข้อมูล MongoDB / PostgreSQL  
+- ออกแบบ RESTful API  
+- Deploy เว็บขึ้น Cloud เช่น Render / Vercel
+
+Course Syllabus
+1. Website Basics (HTML/CSS/JS)  
+2. Modern JavaScript ES6+  
+3. React.js + Components + Hooks  
+4. Routing + State Management  
+5. Node.js + Express Backend  
+6. REST API Design  
+7. Database Fundamentals  
+8. Authentication (JWT)  
+9. Deployment
+
+Final Project
+Full-Stack Web App เช่น:
+- ระบบร้านค้าออนไลน์
+- ระบบ To-do พร้อมฐานข้อมูล
+- Social feed system
+
+Learning Outcomes
+- สร้างเว็บครบทั้ง Frontend + Backend  
+- Deploy เว็บจริงพร้อมใช้งาน  
+- พร้อมสมัครงานสาย Web Dev  

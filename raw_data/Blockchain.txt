@@ -1,0 +1,37 @@
+Course Title: Blockchain & Smart Contract Development
+Level: Beginner → Intermediate
+Format: Coding + Crypto Concepts
+Best For: ผู้สนใจ Blockchain, Web3, Smart Contract
+Price: 6,800 บาท
+Total Hours: 25 ชั่วโมง
+
+Course Description
+คอร์สนี้ปูพื้นฐาน Blockchain และสอนเขียน Smart Contract ด้วย Solidity 
+ผู้เรียนจะ Deploy Contract จริงบน Testnet และเชื่อม DApp ผ่าน Web3.js
+
+Skills You Will Gain
+- เข้าใจ Blockchain / Decentralization  
+- Smart Contract Solidity  
+- การ Deploy บน Ethereum Testnet  
+- Web3 Integration  
+- Security Best Practices  
+
+Course Syllabus
+1. Intro to Blockchain  
+2. Ethereum & EVM  
+3. Solidity Basics  
+4. Contract Design  
+5. Deploy to Testnet  
+6. Interacting with Contract  
+7. Web3.js / Ethers.js  
+8. Final Project
+
+Final Project
+สร้าง Contract เช่น:
+- Token (ERC20)  
+- NFT Minting  
+- Voting System  
+
+Learning Outcomes
+- เขียน Smart Contract ได้  
+- Deploy และเชื่อมต่อ Blockchain จริง  

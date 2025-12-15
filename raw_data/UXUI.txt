@@ -1,0 +1,39 @@
+Course Title: UX/UI Design for Beginners
+Level: Beginner → Intermediate
+Format: Design Workshop + Prototype
+Best For: นักออกแบบ, ผู้เริ่มสาย UX/UI, Product Designer
+Price: 5,200 บาท
+Total Hours: 20 ชั่วโมง
+
+Course Description
+คอร์สนี้สอนการออกแบบ UX/UI ตั้งแต่พื้นฐานไปจนถึงการสร้าง Prototype จริงด้วย Figma  
+ผู้เรียนจะได้ศึกษาการออกแบบประสบการณ์ผู้ใช้, กำหนด Persona, User Journey และสร้าง UI พร้อมทดสอบผู้ใช้งาน
+
+Skills You Will Gain
+- UX Research  
+- Persona & User Journey  
+- UI Layout, Typography, Color Theory  
+- Figma Design  
+- Wireframe & Prototype  
+- User Testing  
+
+Course Syllabus
+1. UX Foundations  
+2. UI Principles  
+3. Wireframing  
+4. Layout & Typography  
+5. Figma Workshop  
+6. Component Design  
+7. Prototyping  
+8. User Testing  
+9. Final Design
+
+Final Project
+ออกแบบ UX/UI ของแอปหรือเว็บไซต์:
+- Food delivery  
+- Finance app  
+- Social media  
+
+Learning Outcomes
+- ออกแบบ UX/UI ครบกระบวนการ  
+- ทำ Prototype บน Figma พร้อมนำเสนอ  

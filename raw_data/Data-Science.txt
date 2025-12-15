@@ -1,0 +1,39 @@
+- Course Title: Data Science
+Level: Beginner → Intermediate
+Format: Hands-on + Real Dataset
+Best For: ผู้เริ่มต้นสาย Data Analyst / Data Scientist
+Price: 5,500 บาท
+Total Hours: 22 ชั่วโมง
+
+Course Description
+คอร์สนี้เน้นการวิเคราะห์ข้อมูลตั้งแต่ดิบจนถึงสร้าง Insight แบบมืออาชีพ  
+ผู้เรียนจะใช้ Python, Pandas, NumPy และเทคนิค Visualization เพื่อสรุปผลข้อมูลจากโลกจริง
+
+Skills You Will Gain
+- Data Cleaning & Preprocessing
+- Data Visualization (Matplotlib/Seaborn)
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- สร้างโมเดล ML เบื้องต้น
+- วิเคราะห์ข้อมูลเชิงลึกแบบอุตสาหกรรม
+
+- Course Syllabus
+1. Intro to Data Science  
+2. Data Loading & Cleaning  
+3. EDA & Visualization  
+4. Statistics Basics  
+5. Machine Learning Basics  
+6. Regression / Classification  
+7. Data Reporting  
+8. Final Project
+
+Final Project
+วิเคราะห์ข้อมูลจริง เช่น:
+- Sales analytics  
+- Health / fitness dataset  
+- Customer segmentation  
+
+Learning Outcomes
+- วิเคราะห์ข้อมูลแบบครบวงจร  
+- สร้าง Visualization คุณภาพสูง  
+- เข้าใจ workflow ของ Data Science จริง  

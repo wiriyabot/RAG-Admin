@@ -1,0 +1,36 @@
+Course Title: Cloud Computing Essentials (AWS/GCP)
+Level: Beginner → Intermediate
+Format: Hands-on Lab
+Best For: ผู้ที่ต้องการใช้งาน Cloud จริง และเตรียมสอบ Certification
+Price: 7,200 บาท
+Total Hours: 26 ชั่วโมง
+
+Course Description
+คอร์สนี้สอนการใช้งาน Cloud Computing ผ่าน AWS และ GCP  
+ผู้เรียนจะได้ deploy ระบบจริง, ใช้ storage, network, serverless และเรียนรู้ DevOps เบื้องต้น
+
+Skills You Will Gain
+- ใช้งาน Compute, Storage, Networking บน Cloud  
+- Deploy เว็บและ Backend บน AWS/GCP  
+- Serverless Functions (AWS Lambda / Cloud Functions)  
+- Cloud IAM & Security  
+- Monitoring & Logging  
+
+Course Syllabus
+1. Cloud Concepts  
+2. IAM & Security  
+3. EC2 / Compute Engine  
+4. S3 / Cloud Storage  
+5. Serverless  
+6. Databases on Cloud  
+7. CI/CD Basics  
+8. Deployment
+
+Final Project
+Deploy ระบบจริง เช่น:
+- Backend API  
+- Static Website Hosting  
+
+Learning Outcomes
+- พร้อมใช้งาน Cloud จริงในงานจริง  
+- เข้าใจสถาปัตยกรรม Cloud อย่างเป็นระบบ  

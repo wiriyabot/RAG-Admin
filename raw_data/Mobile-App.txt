@@ -1,0 +1,39 @@
+Course Title: Flutter Mobile App Development
+Level: Beginner → Intermediate
+Format: UI Building + Project Based
+Best For: ผู้ต้องการสร้างแอป Android/iOS จริง
+Price: 6,500 บาท
+Total Hours: 28 ชั่วโมง
+
+Course Description
+คอร์สนี้สอนการสร้างแอปมือถือด้วย Flutter แบบครบ จบในคอร์สเดียว  
+ผู้เรียนจะได้ออกแบบ UI, จัดการ State, เชื่อมต่อ Firebase และสร้างแอปพร้อมใช้งานจริง
+
+Skills You Will Gain
+- Dart Programming
+- Flutter Widgets / Layouts
+- Navigation & Routing
+- State Management (Provider/Riverpod)
+- Firebase Auth / Firestore
+- Mobile App Deployment Basics
+
+Course Syllabus
+1. Dart Basics  
+2. Flutter UI Components  
+3. Layout / Responsive  
+4. Navigation  
+5. State Management  
+6. Firebase Integration  
+7. API Integration  
+8. Final Project
+
+Final Project
+แอปพร้อมใช้ เช่น:
+- แอปโซเชียลเล็ก ๆ  
+- แอปสั่งของ/ร้านค้า  
+- To-do with Cloud Sync  
+
+Learning Outcomes
+- สร้างแอปมือถือที่ใช้งานได้จริง  
+- เข้าใจสถาปัตยกรรม Flutter  
+- พร้อมพัฒนาแอปจริงระดับ Production

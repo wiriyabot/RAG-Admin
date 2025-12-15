@@ -1,0 +1,36 @@
+Course Title: Cybersecurity Fundamentals
+Level: Beginner Level
+Format: Hands-on + Tools Based
+Best For: ผู้เริ่มต้นที่ต้องการเข้าสาย Security
+Price: 4,900 บาท
+Total Hours: 18 ชั่วโมง
+
+Course Description
+สอนพื้นฐาน Cybersecurity แบบเต็มระบบ  
+ตั้งแต่ภัยคุกคามทั่วไป, การเข้ารหัส, การป้องกันระบบ และการใช้งาน Tools จริง เช่น Wireshark, Burp Suite (พื้นฐาน)
+
+Skills You Will Gain
+- เข้าใจภัยคุกคาม: Malware, Phishing, MITM
+- Hashing & Encryption Basics
+- Network Security Basics
+- Secure Coding Principles
+- ใช้ Tools วิเคราะห์ความปลอดภัยเบื้องต้น
+
+Course Syllabus
+1. Fundamentals of Cybersecurity  
+2. Threat Types  
+3. Basics of Cryptography  
+4. Network Attacks  
+5. Web Security  
+6. Tools Workshop  
+7. System Hardening  
+8. Final Lab
+
+Final Project
+Security Lab เช่น:
+- วิเคราะห์ Traffic  
+- ตรวจหาช่องโหว่เว็บเล็ก ๆ  
+
+Learning Outcomes
+- เข้าใจ Cybersecurity ระดับพื้นฐานครบ  
+- รู้วิธีป้องกันระบบและตรวจหาช่องโหว่  
