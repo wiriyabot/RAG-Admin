@@ -28,6 +28,8 @@
 └── requirements.txt
 ```
 
+---
+
 ## การติดตั้งและใช้งาน (Installation & Usage)
 1. Clone & Setup Environment:
 ```bash
@@ -41,22 +43,29 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+---
+
 3. Configuration:
 สร้างไฟล์ .env ที่ root folder และใส่ API Key:
 ```env
 OPENAI_API_KEY=sk-xxxxxxxxxxxx
 ```
 
+---
+
 4. Build Course Database:
 ```bash
 python build.py
 ```
+
+---
 
 5. Run Admin App:
 ```bash
 streamlit run app.py
 ```
 
+---
 
 ## หมายเหตุ
 * วางข้อมูลคอร์สต้นฉบับใน raw_data/ ก่อนรัน build.py
