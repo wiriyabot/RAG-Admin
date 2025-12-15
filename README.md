@@ -85,7 +85,8 @@ streamlit run app.py
 ## ตัวอย่างการใช้งาน
 <img width="914" height="595" alt="image" src="https://github.com/user-attachments/assets/ac65c363-d725-40d9-b6de-73134ff517aa" />
 
-มีระบบจดจำประวัติการสนทนา
+* มีระบบจดจำประวัติการสนทนา
 
 <img width="903" height="564" alt="image" src="https://github.com/user-attachments/assets/e30425e4-ff54-4b0f-b1b7-ae0d0fd7451d" />
 
+---
