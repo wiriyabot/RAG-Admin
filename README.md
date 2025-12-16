@@ -1,4 +1,4 @@
-# RAG-Admin: Intelligent Course Assistant
+# RAG Admin: Intelligent Course Assistant
 
 โปรเจกต์นี้เป็นระบบ **Retrieval-Augmented Generation (RAG)** สำหรับ **ผู้ดูแลคอร์สเรียน (Admin)**  
 ช่วยให้สามารถตอบคำถามเกี่ยวกับคอร์สเรียนของคุณได้อย่างแม่นยำ โดยระบบจะค้นหาข้อมูลจาก **ฐานข้อมูลคอร์ส** และใช้ AI สร้างคำตอบที่ตรงกับความต้องการของผู้เรียน
